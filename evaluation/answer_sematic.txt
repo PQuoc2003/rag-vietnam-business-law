@@ -315,3 +315,35 @@ Lưu ý: Việc cấp lại cổ phiếu thường đi kèm với một số th�
 <<Chủ doanh nghiệp tư nhân có quyền bán doanh nghiệp tư nhân của mình cho cá nhân, tổ chức khác. Tuy nhiên, sau khi bán, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp phát sinh trước ngày chuyển giao, trừ khi có thỏa thuận khác giữa chủ doanh nghiệp, người mua và chủ nợ. Người mua doanh nghiệp tư nhân phải đăng ký thay đổi chủ doanh nghiệp theo quy định của Luật Doanh nghiệp.
 
 Luật không quy định cụ thể về việc cho thuê doanh nghiệp tư nhân, do đó việc cho thuê doanh nghiệp tư nhân sẽ được thực hiện theo thỏa thuận giữa các bên và theo quy định của pháp luật dân sự.>>
+<<Pháp luật Việt Nam quy định về việc tạm ngừng, đình chỉ hoạt động và chấm dứt kinh doanh của doanh nghiệp như sau:
+
+1.  **Tạm ngừng kinh doanh:**
+
+   *   Doanh nghiệp phải thông báo bằng văn bản cho Cơ quan đăng ký kinh doanh chậm nhất là 03 ngày làm việc trước ngày tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trước thời hạn đã thông báo.
+   *   Trong thời gian tạm ngừng kinh doanh, doanh nghiệp phải nộp đủ số thuế, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp còn nợ; tiếp tục thanh toán các khoản nợ, hoàn thành việc thực hiện hợp đồng đã ký với khách hàng và người lao động, trừ trường hợp có thỏa thuận khác.
+
+2.  **Đình chỉ hoạt động, chấm dứt kinh doanh:**
+
+   *   Cơ quan đăng ký kinh doanh, cơ quan nhà nước có thẩm quyền yêu cầu doanh nghiệp tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh trong các trường hợp:
+
+       *   Kinh doanh ngành, nghề kinh doanh có điều kiện, ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài khi phát hiện doanh nghiệp không có đủ điều kiện tương ứng theo quy định của pháp luật.
+       *   Theo yêu cầu của cơ quan có liên quan theo quy định của pháp luật về quản lý thuế, môi trường và quy định khác của pháp luật có liên quan.
+       *   Đình chỉ hoạt động, chấm dứt kinh doanh một, một số ngành, nghề kinh doanh hoặc trong một số lĩnh vực theo quyết định của Tòa án.
+
+3.  **Chấm dứt hoạt động của dự án đầu tư:**
+
+    *   Nhà đầu tư có thể chấm dứt hoạt động đầu tư, dự án đầu tư trong các trường hợp sau:
+         *   Nhà đầu tư quyết định chấm dứt hoạt động của dự án đầu tư;
+         *   Theo các điều kiện chấm dứt hoạt động được quy định trong hợp đồng, điều lệ doanh nghiệp;
+         *   Hết thời hạn hoạt động của dự án đầu tư.
+    *   Cơ quan đăng ký đầu tư chấm dứt hoặc chấm dứt một phần hoạt động của dự án đầu tư trong các trường hợp được quy định tại Khoản 2 và Khoản 3, Điều 47 của Luật Đầu Tư 2020 mà nhà đầu tư không có khả năng khắc phục điều kiện ngừng hoạt động.
+
+4.  **Giải thể doanh nghiệp:**
+
+   *   Doanh nghiệp bị giải thể trong các trường hợp:
+
+       *   Kết thúc thời hạn hoạt động đã ghi trong Điều lệ công ty mà không có quyết định gia hạn.
+       *   Theo nghị quyết, quyết định của chủ doanh nghiệp đối với doanh nghiệp tư nhân, của Hội đồng thành viên đối với công ty hợp danh, của Hội đồng thành viên, chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn, của Đại hội đồng cổ đông đối với công ty cổ phần.
+       *   Công ty không còn đủ số lượng thành viên tối thiểu theo quy định của Luật này trong thời hạn 06 tháng liên tục mà không làm thủ tục chuyển đổi loại hình doanh nghiệp.
+       *   Bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp, trừ trường hợp Luật Quản lý thuế có quy định khác.
+   *   Doanh nghiệp chỉ được giải thể khi bảo đảm thanh toán hết các khoản nợ, nghĩa vụ tài sản khác và không trong quá trình giải quyết tranh chấp tại Tòa án hoặc Trọng tài.>>
