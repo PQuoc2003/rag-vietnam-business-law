@@ -2,13 +2,6 @@
 
 Đây là đồ án môn **Dự án Công Nghệ Thông Tin 1** thuộc Khoa Công Nghệ Thông Tin - Đại Học Tôn Đức Thắng.
 
-### 👥 Nhóm thực hiện:
-
-| Họ và Tên            | MSSV     |
-| -------------------- | -------- |
-| Đinh Thị Ngọc Phượng | 52100923 |
-| Đinh Phú Quốc        | 52100927 |
-
 ---
 
 # 🚀 Hướng dẫn chạy code
